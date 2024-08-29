@@ -1,6 +1,6 @@
 # Power-Plants-in-Germany-and-UE
 
-![image](https://github.com/user-attachments/assets/d620188b-af2d-42e1-a68f-c7e077ba24c2)
+![image](https://github.com/user-attachments/assets/bb9cb878-6ec6-4ee0-b2d1-bd39ce896d24)
 
 This project tries to understand some main points about the Europe Union (UE) and Germany's power plant
 
