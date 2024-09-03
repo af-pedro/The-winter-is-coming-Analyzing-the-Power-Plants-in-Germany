@@ -1,4 +1,4 @@
-# Analysis of Power Plants in Germany and the European Union
+# Analysis of Power Plants in Germany 
 
 ![image](https://github.com/user-attachments/assets/bb9cb878-6ec6-4ee0-b2d1-bd39ce896d24)
 
@@ -6,16 +6,13 @@
 This project provides an in-depth analysis of power plants across Germany and the European Union. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions. By visualizing and examining this data, the project seeks to enhance our understanding of the current energy landscape and historical developments that have shaped it.
 
 ## Historical Context
-Energy has been a pivotal factor in the development of both Germany and the European Union. Historically, Europe has undergone significant transformations in its energy sector, driven by both technological advancements and geopolitical shifts.
+Energy has been a pivotal factor in the development of Germany. Historically, Europe has undergone significant transformations in its energy sector, driven by both technological advancements and geopolitical shifts.
 
 ## 1. Germany 🇩🇪
 A leading industrial nation, has experienced a notable evolution in its energy policies. Post-World War II, the country relied heavily on coal and nuclear power to fuel its economic growth. However, in the wake of the Chernobyl disaster in 1986 and the subsequent rise in environmental awareness, Germany began transitioning towards more sustainable energy sources. The Energiewende, or "energy transition," initiated in the early 2000s, marked a significant shift with an emphasis on increasing the share of renewable energy sources like wind and solar power. Today, Germany is a global leader in renewable energy and energy efficiency, striving to reduce its carbon footprint and achieve a sustainable energy future.
 
-## 2. European Union 🇪🇺
-The European Union has also been at the forefront of energy transformation. The EU's energy policy has evolved with the goal of ensuring security of supply, fostering competition, and protecting the environment. The establishment of the European Energy Union in 2015 represents a major milestone, aiming to integrate energy markets, enhance infrastructure, and promote renewable energy. The EU's commitment to the Paris Agreement and its ambitious targets for reducing greenhouse gas emissions reflect its dedication to combating climate change and transitioning to a low-carbon economy.
-
 ### Project Overview
-This project leverages data on power plants from Germany and the EU to analyze various aspects such as:
+This project leverages data on power plants from Germany to analyze various aspects such as:
 
 The distribution of power plants by energy source
 Efficiency metrics by technology type
