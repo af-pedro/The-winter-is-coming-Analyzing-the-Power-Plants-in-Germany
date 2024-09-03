@@ -28,7 +28,7 @@ This project tries to understand some main points about the Europe Union (UE) an
 
 ### 6. Geographical distribution of power plants by energy source type
 
-
+![image](https://github.com/user-attachments/assets/9fb81276-32f1-48e1-8cb9-8a01c756b4c9)
 
 ### 7. Total installed capacity of renewable sources
 
