@@ -22,39 +22,74 @@ I hope this analysis serves as a valuable resource for researchers, policymakers
 ## 1. Germany 🇩🇪
 A leading industrial nation, has experienced a notable evolution in its energy policies. Post-World War II, the country relied heavily on coal and nuclear power to fuel its economic growth. However, in the wake of the Chernobyl disaster in 1986 and the subsequent rise in environmental awareness, Germany began transitioning towards more sustainable energy sources. The Energiewende, or "energy transition," initiated in the early 2000s, marked a significant shift with an emphasis on increasing the share of renewable energy sources like wind and solar power. Today, Germany is a global leader in renewable energy and energy efficiency, striving to reduce its carbon footprint and achieve a sustainable energy future. 
 
-The Germany average age of power plants are 39.49 years,
+Some relevant information about the German energy system. The germany average age of power plants is 39 years. The status of the plants in 2020 was as follows:
 
+| Status                    | N     |
+|:------------------------:|:---------------:|
+| ⚡ Operating              |       723       |
+| ⛔ Shutdown              |       110       |
+| 🌟 Special Case          |        16       |
+| ⏸ Shutdown Temporary     |        15       |
+| 🔋 Reserve               |         8       |
+| 🍃 Seasonal Conservation |         7       |
+
+### 🌍 Power Plants by State:
+- ⚡ **NRW (North Rhine-Westphalia)**: 228 power plants
+- 🏞 **Bayern (Bavaria)**: 168 power plants
+- 🌲 **Baden-Württemberg**: 95 power plants
+
+### 🔋 Most Used Energy Sources:
+- 🔥 **Natural Gas**: 305 plants
+- 💧 **Hydro**: 137 plants
+- ⚒ **Hard Coal**: 119 plants
+
+### 🏭 Most Used Power Generation Technologies:
+- 🔄 **Steam Turbine**: 537 plants
+- 🔥⚡ **Combined Cycle**: 113 plants
+- 🌊 **Run-of-River**: 86 plants
+
+### 🏢 Largest Power Plant Network Administrators:
+- ⚙️ **Amprion GmbH**: 79 plants
+- ⚡ **Westnetz GmbH**: 74 plants
+- 🔧 **Bayernwerk AG**: 59 plants
+
+### 🌐 Power Transmission Companies by Installed Capacity:
+- ⚡ **Amprion GmbH**: 31,777 MW
+- ⚡ **TenneT TSO GmbH**: 15,623 MW
+- ⚡ **50Hertz Transmission GmbH**: 14,297 MW
+- 
 ## Main questions
 
 ### 1. What is the distribution of plant capacity by energy source type?
 
-![image](https://github.com/user-attachments/assets/e7256f7a-29cd-4afd-8013-16ef5d34a82a)
+![image](https://github.com/user-attachments/assets/8790aa1b-4715-4f33-88bf-3555582d267a)
 
 ### 2. How does the gross capacity of power plants vary over the years?
 
-![image](https://github.com/user-attachments/assets/8ff3b61c-9118-4bda-9d0a-75652551200e)
+![image](https://github.com/user-attachments/assets/053cbdfd-d610-46d1-b20f-efd66512a5dc)
 
 ### 3. What is the average efficiency of power plants, and how does it vary by technology type?
 
-![image](https://github.com/user-attachments/assets/ffe2ce81-bc1a-4006-8e4a-e6af00b0a616)
+![image](https://github.com/user-attachments/assets/e58bf024-cb47-4db2-a630-f021b4ff8216)
 
 ### 4. Which states in Germany have the highest power generation capacities?
 
-![image](https://github.com/user-attachments/assets/e97ef05b-511a-4c46-905b-d32422efed94)
+![image](https://github.com/user-attachments/assets/d6294037-a4ef-48bc-9cb9-4f6b03d0352a)
 
 ### 5. How does the proportion of plants with cogeneration (CHP) capacity vary by technology type?
 
-![image](https://github.com/user-attachments/assets/e190d13f-3d4f-4c08-80d7-d163fc04db2c)
+![image](https://github.com/user-attachments/assets/f40f9c47-38a9-48ce-beb4-df65de6214a7)
 
 ### 6. Geographical distribution of power plants by energy source type
 
-![image](https://github.com/user-attachments/assets/0ba141ab-87d4-46d6-8c0a-466e7417b778)
+![image](https://github.com/user-attachments/assets/a43adfca-1f33-48d8-8c1b-02e9b9ffefda)
 
 ### 7. Total installed capacity of renewable sources
 
-![image](https://github.com/user-attachments/assets/2f7cc6c3-e19f-41ee-a3d3-4fd51b5fe148)
+![image](https://github.com/user-attachments/assets/68846a03-63bd-4e9a-964a-df3aa7a84626)
 
 ### 8. Relationship between Installed Capacity and Number of Plants by Energy Type
 
-![image](https://github.com/user-attachments/assets/bb714042-ba56-49c7-91e1-9912b26f85db)
+![image](https://github.com/user-attachments/assets/186982da-ec9c-4e1b-b949-6f853782fa50)
+
 
