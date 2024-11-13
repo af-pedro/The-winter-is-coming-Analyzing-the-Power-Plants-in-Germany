@@ -97,6 +97,7 @@ The graph shows how different energy production technologies have a greater vari
 
 ### 8. Relationship between Installed Capacity and Number of Plants by Energy Type
 
-![image](https://github.com/user-attachments/assets/186982da-ec9c-4e1b-b949-6f853782fa50)
+![image](https://github.com/user-attachments/assets/27f8aebe-7648-42d0-bcec-02d5bf76627b)
+
 
 
