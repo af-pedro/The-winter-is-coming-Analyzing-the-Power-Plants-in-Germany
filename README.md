@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/bb9cb878-6ec6-4ee0-b2d1-bd39ce896d24)
 
 ## Introduction
-This project provides an in-depth analysis of power plants across Germany and the European Union. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions. By visualizing and examining this data, the project seeks to enhance our understanding of the current energy landscape and historical developments that have shaped it.
+This project provides an in-depth analysis of power plants across Germany. It aims to offer insights into the distribution, capacity, and types of energy sources utilized within these regions. By visualizing and examining this data, the project seeks to enhance our understanding of the current energy landscape and historical developments that have shaped it.
 
 ## Historical Context
 Energy has been a pivotal factor in the development of Germany. Historically, Europe has undergone significant transformations in its energy sector, driven by both technological advancements and geopolitical shifts.
@@ -23,7 +23,7 @@ Using visualizations, such as geographic scatter plots and capacity distribution
 - The power transmission infrastructure is well developed, with large grid operators dominating the sector. This could facilitate the integration of more renewable sources and emerging technologies such as distributed solar and energy storage.
 - Power plant efficiency could be further improved with more investment in combined cycle and clean technologies.
 
-## 1. Germany 🇩🇪
+## 1. Germany 
 A leading industrial nation, has experienced a notable evolution in its energy policies. Post-World War II, the country relied heavily on coal and nuclear power to fuel its economic growth. However, in the wake of the Chernobyl disaster in 1986 and the subsequent rise in environmental awareness, Germany began transitioning towards more sustainable energy sources. The Energiewende, or "energy transition," initiated in the early 2000s, marked a significant shift with an emphasis on increasing the share of renewable energy sources like wind and solar power. Today, Germany is a global leader in renewable energy and energy efficiency, striving to reduce its carbon footprint and achieve a sustainable energy future. 
 
 Some relevant information about the German energy system. The germany average age of power plants is 39 years. The west and south of Germany are the regions where the most important power plants are located. 
