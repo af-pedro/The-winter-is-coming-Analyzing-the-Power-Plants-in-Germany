@@ -8,9 +8,6 @@ This project provides an in-depth analysis of power plants across Germany and th
 ## Historical Context
 Energy has been a pivotal factor in the development of Germany. Historically, Europe has undergone significant transformations in its energy sector, driven by both technological advancements and geopolitical shifts.
 
-## 1. Germany 🇩🇪
-A leading industrial nation, has experienced a notable evolution in its energy policies. Post-World War II, the country relied heavily on coal and nuclear power to fuel its economic growth. However, in the wake of the Chernobyl disaster in 1986 and the subsequent rise in environmental awareness, Germany began transitioning towards more sustainable energy sources. The Energiewende, or "energy transition," initiated in the early 2000s, marked a significant shift with an emphasis on increasing the share of renewable energy sources like wind and solar power. Today, Germany is a global leader in renewable energy and energy efficiency, striving to reduce its carbon footprint and achieve a sustainable energy future. The Germany average age of power plants are 39.49 years,
-
 ### Project Overview
 This project leverages data on power plants from Germany to analyze various aspects such as:
 
@@ -20,8 +17,12 @@ Regional disparities in energy production
 The prevalence of cogeneration (CHP) plants
 Using visualizations, such as geographic scatter plots and capacity distribution charts, this analysis provides a comprehensive view of the energy sector's current state and its historical trajectory. By understanding these dynamics, we can better appreciate the progress made towards sustainable energy and identify areas for future improvement.
 
-We hope this analysis serves as a valuable resource for researchers, policymakers, and anyone interested in the evolution of energy systems in Germany and the European Union.
+I hope this analysis serves as a valuable resource for researchers, policymakers, and anyone interested in the evolution of energy systems in Germany and the European Union.
 
+## 1. Germany 🇩🇪
+A leading industrial nation, has experienced a notable evolution in its energy policies. Post-World War II, the country relied heavily on coal and nuclear power to fuel its economic growth. However, in the wake of the Chernobyl disaster in 1986 and the subsequent rise in environmental awareness, Germany began transitioning towards more sustainable energy sources. The Energiewende, or "energy transition," initiated in the early 2000s, marked a significant shift with an emphasis on increasing the share of renewable energy sources like wind and solar power. Today, Germany is a global leader in renewable energy and energy efficiency, striving to reduce its carbon footprint and achieve a sustainable energy future. 
+
+The Germany average age of power plants are 39.49 years,
 
 ## Main questions
 
