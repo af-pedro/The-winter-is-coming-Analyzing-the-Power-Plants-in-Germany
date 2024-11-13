@@ -58,30 +58,26 @@ The predominant technology in power generation is the steam turbine (537 plants)
 - 🔄 **Steam Turbine**: 537 plants
 - 🔥⚡ **Combined Cycle**: 113 plants
 - 🌊 **Run-of-River**: 86 plants
-
-### 🏢 Largest Power Plant Network Administrators:
-- ⚙️ **Amprion GmbH**: 79 plants
-- ⚡ **Westnetz GmbH**: 74 plants
-- 🔧 **Bayernwerk AG**: 59 plants
-
-### 🌐 Power Transmission Companies by Installed Capacity:
-- ⚡ **Amprion GmbH**: 31,777 MW
-- ⚡ **TenneT TSO GmbH**: 15,623 MW
-- ⚡ **50Hertz Transmission GmbH**: 14,297 MW
-  
+ 
 ## Main questions
 
 ### 1. What is the distribution of plant capacity by energy source type?
 
 ![image](https://github.com/user-attachments/assets/8790aa1b-4715-4f33-88bf-3555582d267a)
 
+**Most of the installed capacity comes from non-renewable sources**, which indicates a **significant challenge for energy sustainability**. The presence of hydropower as a renewable source is a positive point, but it also highlights the need for diversification of energy sources to ensure a successful, sustainable energy transition capable of meeting demand safely.
+
 ### 2. How does the gross capacity of power plants vary over the years?
 
 ![image](https://github.com/user-attachments/assets/053cbdfd-d610-46d1-b20f-efd66512a5dc)
 
+Gross capacity over time shows the evolution of installed capacity over the years. We can see that there were 3 major peaks, between 1984-1989, 2002 and 2012.
+
 ### 3. What is the average efficiency of power plants, and how does it vary by technology type?
 
 ![image](https://github.com/user-attachments/assets/e58bf024-cb47-4db2-a630-f021b4ff8216)
+
+The graph shows how different energy production technologies have a greater variation in efficiency, while others are more constant. Technologies with **narrower boxes** indicate a **smaller variation in efficiency estimates**, while **wider boxes** indicate a **larger variation**.
 
 ### 4. Which states in Germany have the highest power generation capacities?
 
@@ -93,7 +89,7 @@ The predominant technology in power generation is the steam turbine (537 plants)
 
 ### 6. Geographical distribution of power plants by energy source type
 
-![image](https://github.com/user-attachments/assets/a43adfca-1f33-48d8-8c1b-02e9b9ffefda)
+![image](https://github.com/user-attachments/assets/86ee7431-ae6b-45bb-9fc5-7c239b12eb5f)
 
 ### 7. Total installed capacity of renewable sources
 
