@@ -8,6 +8,8 @@ This project provides an in-depth analysis of power plants across Germany. It ai
 ## Historical Context
 Energy has been a pivotal factor in the development of Germany. Historically, Europe has undergone significant transformations in its energy sector, driven by both technological advancements and geopolitical shifts.
 
+From this, the **research question** was: **"How do the geographical distribution, technology types, and power generation capacities influence the transition from non-renewable to renewable sources in Germany's energy mix?"**
+
 ### Project Overview
 This project leverages data on power plants from Germany to analyze various aspects such as:
 
